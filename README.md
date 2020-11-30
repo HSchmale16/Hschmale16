@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Read my website at : Https://www.henryschmale.org
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hschmale16)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **HSchmale16/Hschmale16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
