@@ -6,6 +6,9 @@ Read my website at : Https://www.henryschmale.org
 
 ![](https://komarev.com/ghpvc/?username=hschmale16)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **HSchmale16/Hschmale16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
