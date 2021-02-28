@@ -6,6 +6,7 @@ Read my website at : Https://www.henryschmale.org
 
 ![](https://komarev.com/ghpvc/?username=hschmale16)
 
+# My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Brief and Painless Introduction To Bash](https://www.henryschmale.org/2021/01/27/bash-pres.html)
 - [Adding `pylint` to your Github Actions flow](https://www.henryschmale.org/2021/01/21/pylint-github-actions.html)
