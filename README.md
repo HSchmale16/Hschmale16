@@ -7,6 +7,11 @@ Read my website at : Https://www.henryschmale.org
 ![](https://komarev.com/ghpvc/?username=hschmale16)
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief and Painless Introduction To Bash](https://www.henryschmale.org/2021/01/27/bash-pres.html)
+- [Adding `pylint` to your Github Actions flow](https://www.henryschmale.org/2021/01/21/pylint-github-actions.html)
+- [Finding Jekyll Posts to Update With Cover Images](https://www.henryschmale.org/2021/01/10/grep-jekyll-img-covers.html)
+- [PyGame FFT Audio Visualizations](https://www.henryschmale.org/2021/01/07/pygame-linein-audio-viz.html)
+- [Ginger Cumin Rubbed Rib Roast](https://www.henryschmale.org/2020/12/31/rib-roast-rub.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
