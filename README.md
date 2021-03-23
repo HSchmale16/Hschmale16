@@ -18,6 +18,7 @@ Read my website at : Https://www.henryschmale.org
 - [Yetris Review - A Fantastic Terminal Tetris](https://www.henryschmale.org/2020/12/08/yetris.html)
 <!-- BLOG-POST-LIST:END -->
 
+# My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Android Room Paging Results For Export. Potential Problems with my solution](https://stackoverflow.com/questions/66377671/android-room-paging-results-for-export-potential-problems-with-my-solution)
 - [In prolog, why is `(1+2) is (2+1)` false?](https://stackoverflow.com/questions/65083397/in-prolog-why-is-12-is-21-false)
