@@ -2,6 +2,7 @@ name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 0 * * *' # Runs daily, bc I don't publish that often.
+  push: # Run it when I make changes to this repo.
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
@@ -12,3 +13,9 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.henryschmale.org/feed.xml"
+          max_post_count: 8
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/4214976"
