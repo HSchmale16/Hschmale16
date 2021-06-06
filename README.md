@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Blender Muddled Julep Inspired Strawberry Cocktail](https://www.henryschmale.org/2021/06/05/strawberry-julep.html)
 - [Using a Bash Script to Generate Random Fake Data To Insert Into DynamoDB](https://www.henryschmale.org/2021/03/30/aws-dynamo-faker.html)
 - [I Cooked a Leg of Lamb on my Smoker.](https://www.henryschmale.org/2021/03/26/leg-of-lamb.html)
 - [Converting a JavaScript array of strings to numbers, and the problem with `Array.map`](https://www.henryschmale.org/2021/03/15/parseInt-array.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Adding `pylint` to your Github Actions flow](https://www.henryschmale.org/2021/01/21/pylint-github-actions.html)
 - [Finding Jekyll Posts to Update With Cover Images](https://www.henryschmale.org/2021/01/10/grep-jekyll-img-covers.html)
 - [PyGame FFT Audio Visualizations](https://www.henryschmale.org/2021/01/07/pygame-linein-audio-viz.html)
-- [Ginger Cumin Rubbed Rib Roast](https://www.henryschmale.org/2020/12/31/rib-roast-rub.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
