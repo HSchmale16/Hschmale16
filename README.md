@@ -8,7 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Adding Search to My Blog Using AWS Lambda and SQLite](https://www.henryschmale.org/2021/07/09/blog-search.html)
+- [Adding Search to My Static Blog Using AWS Lambda and SQLite](https://www.henryschmale.org/2021/07/09/blog-search.html)
 - [Visiting the NYC Fire Fighter Museum](https://www.henryschmale.org/2021/07/06/fire-fighter-museum.html)
 - [A Blender Muddled Julep Inspired Strawberry Cocktail](https://www.henryschmale.org/2021/06/05/strawberry-julep.html)
 - [Using a Bash Script to Generate Random Fake Data To Insert Into DynamoDB](https://www.henryschmale.org/2021/03/30/aws-dynamo-faker.html)
