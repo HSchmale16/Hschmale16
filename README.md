@@ -20,9 +20,9 @@ Read my website at : Https://www.henryschmale.org
 
 # My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [API Gateway Query Parameters Not logged to cloud watch](https://stackoverflow.com/questions/68323907/api-gateway-query-parameters-not-logged-to-cloud-watch)
 - [Android Room Paging Results For Export. Potential Problems with my solution](https://stackoverflow.com/questions/66377671/android-room-paging-results-for-export-potential-problems-with-my-solution)
 - [In prolog, why is `(1+2) is (2+1)` false?](https://stackoverflow.com/questions/65083397/in-prolog-why-is-12-is-21-false)
 - [Answer by HSchmale for How to setup file upload from NodeJS/VueJS to another server?](https://stackoverflow.com/questions/63026513/how-to-setup-file-upload-from-nodejs-vuejs-to-another-server/63026557#63026557)
 - [Answer by HSchmale for Android studio not running .sh script with Jsch](https://stackoverflow.com/questions/63022349/android-studio-not-running-sh-script-with-jsch/63025525#63025525)
-- [Answer by HSchmale for Suddenly YouTube API is not working with exceed qouta](https://stackoverflow.com/questions/63025470/suddenly-youtube-api-is-not-working-with-exceed-qouta/63025506#63025506)
 <!-- STACKOVERFLOW:END -->
