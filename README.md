@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding Search to My Blog Using AWS Lambda and SQLite](https://www.henryschmale.org/2021/07/09/blog-search.html)
 - [Visiting the NYC Fire Fighter Museum](https://www.henryschmale.org/2021/07/06/fire-fighter-museum.html)
 - [A Blender Muddled Julep Inspired Strawberry Cocktail](https://www.henryschmale.org/2021/06/05/strawberry-julep.html)
 - [Using a Bash Script to Generate Random Fake Data To Insert Into DynamoDB](https://www.henryschmale.org/2021/03/30/aws-dynamo-faker.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Converting a JavaScript array of strings to numbers, and the problem with `Array.map`](https://www.henryschmale.org/2021/03/15/parseInt-array.html)
 - [A Brief and Painless Introduction To Bash](https://www.henryschmale.org/2021/01/27/bash-pres.html)
 - [Adding `pylint` to your Github Actions flow](https://www.henryschmale.org/2021/01/21/pylint-github-actions.html)
-- [Finding Jekyll Posts to Update With Cover Images](https://www.henryschmale.org/2021/01/10/grep-jekyll-img-covers.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
