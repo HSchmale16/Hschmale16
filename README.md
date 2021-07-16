@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Problem with Regex Search and Replace in Java](https://www.henryschmale.org/2021/07/15/regex-quoting.html)
 - [Adding Search to My Static Blog Using AWS Lambda and SQLite](https://www.henryschmale.org/2021/07/09/blog-search.html)
 - [Visiting the NYC Fire Fighter Museum](https://www.henryschmale.org/2021/07/06/fire-fighter-museum.html)
 - [A Blender Muddled Julep Inspired Strawberry Cocktail](https://www.henryschmale.org/2021/06/05/strawberry-julep.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [I Cooked a Leg of Lamb on my Smoker.](https://www.henryschmale.org/2021/03/26/leg-of-lamb.html)
 - [Converting a JavaScript array of strings to numbers, and the problem with `Array.map`](https://www.henryschmale.org/2021/03/15/parseInt-array.html)
 - [A Brief and Painless Introduction To Bash](https://www.henryschmale.org/2021/01/27/bash-pres.html)
-- [Adding `pylint` to your Github Actions flow](https://www.henryschmale.org/2021/01/21/pylint-github-actions.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
