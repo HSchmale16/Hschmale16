@@ -4,7 +4,7 @@ Read my website at : Https://www.henryschmale.org
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hschmale16)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=hschmale16)
+![](https://oosbvkzj53.execute-api.us-east-1.amazonaws.com/hit?url=https://github.com/hschmale16)
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
