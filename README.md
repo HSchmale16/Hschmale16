@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Review of "Extraterrestrial" by Avi Loeb](https://www.henryschmale.org/2021/09/01/extraterristal-avi-loeb.html)
 - [Search Suggestions on My Website](https://www.henryschmale.org/2021/07/27/search-suggest.html)
 - [The Problem with Regex Search and Replace in Java](https://www.henryschmale.org/2021/07/15/regex-quoting.html)
 - [Adding Search to My Static Blog Using AWS Lambda and SQLite](https://www.henryschmale.org/2021/07/09/blog-search.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [A Blender Muddled Julep Inspired Strawberry Cocktail](https://www.henryschmale.org/2021/06/05/strawberry-julep.html)
 - [Using a Bash Script to Generate Random Fake Data To Insert Into DynamoDB](https://www.henryschmale.org/2021/03/30/aws-dynamo-faker.html)
 - [I Cooked a Leg of Lamb on my Smoker.](https://www.henryschmale.org/2021/03/26/leg-of-lamb.html)
-- [Converting a JavaScript array of strings to numbers, and the problem with `Array.map`](https://www.henryschmale.org/2021/03/15/parseInt-array.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
