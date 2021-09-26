@@ -20,9 +20,9 @@ Read my website at : Https://www.henryschmale.org
 
 # My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Unify Flask's request.form with json to allow access from same interface](https://stackoverflow.com/questions/69330899/unify-flasks-request-form-with-json-to-allow-access-from-same-interface)
 - [Answer by HSchmale for Unexpected end of JSON input : when i want to json() the response](https://stackoverflow.com/questions/69095632/unexpected-end-of-json-input-when-i-want-to-json-the-response/69095719#69095719)
 - [AWS Glue Crawler - DynamoDB Export - Get attribute names in schema instead of struct](https://stackoverflow.com/questions/69081400/aws-glue-crawler-dynamodb-export-get-attribute-names-in-schema-instead-of-st)
 - [Answer by HSchmale for Got column doesn't exist when query nested jsonb field in postgresql](https://stackoverflow.com/questions/69021083/got-column-doesnt-exist-when-query-nested-jsonb-field-in-postgresql/69021160#69021160)
 - [Answer by HSchmale for Way to prevent stdout.readline() from freezing program](https://stackoverflow.com/questions/68523083/way-to-prevent-stdout-readline-from-freezing-program/68523114#68523114)
-- [API Gateway Query Parameters Not logged to cloud watch](https://stackoverflow.com/questions/68323907/api-gateway-query-parameters-not-logged-to-cloud-watch)
 <!-- STACKOVERFLOW:END -->
