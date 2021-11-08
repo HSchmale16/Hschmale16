@@ -8,9 +8,9 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Great Granddad's Chicken Recipe](https://www.henryschmale.org/2021/09/26/chicken.html)
+- [My Great Granddad&#39;s Chicken Recipe](https://www.henryschmale.org/2021/09/26/chicken.html)
 - [TIL my site is a JAMStack site.](https://www.henryschmale.org/2021/09/10/jamstack.html)
-- [A Review of "Extraterrestrial" by Avi Loeb](https://www.henryschmale.org/2021/09/01/extraterristal-avi-loeb.html)
+- [A Review of &quot;Extraterrestrial&quot; by Avi Loeb](https://www.henryschmale.org/2021/09/01/extraterristal-avi-loeb.html)
 - [Search Suggestions on My Website](https://www.henryschmale.org/2021/07/27/search-suggest.html)
 - [The Problem with Regex Search and Replace in Java](https://www.henryschmale.org/2021/07/15/regex-quoting.html)
 - [Adding Search to My Static Blog Using AWS Lambda and SQLite](https://www.henryschmale.org/2021/07/09/blog-search.html)
