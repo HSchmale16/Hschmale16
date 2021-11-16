@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming Practice Sites I Like](https://www.henryschmale.org/2021/11/15/progprac.html)
 - [My Great Granddad&#39;s Chicken Recipe](https://www.henryschmale.org/2021/09/26/chicken.html)
 - [TIL my site is a JAMStack site.](https://www.henryschmale.org/2021/09/10/jamstack.html)
 - [A Review of &quot;Extraterrestrial&quot; by Avi Loeb](https://www.henryschmale.org/2021/09/01/extraterristal-avi-loeb.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [The Problem with Regex Search and Replace in Java](https://www.henryschmale.org/2021/07/15/regex-quoting.html)
 - [Adding Search to My Static Blog Using AWS Lambda and SQLite](https://www.henryschmale.org/2021/07/09/blog-search.html)
 - [Visiting the NYC Fire Fighter Museum](https://www.henryschmale.org/2021/07/06/fire-fighter-museum.html)
-- [A Blender Muddled Julep Inspired Strawberry Cocktail](https://www.henryschmale.org/2021/06/05/strawberry-julep.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
