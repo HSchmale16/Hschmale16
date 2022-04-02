@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Superman - Man of Tomorrow](https://www.henryschmale.org/2022/04/02/man-of-tomorrow.html)
 - [Interactive Encryption and Decryption using RSA](https://www.henryschmale.org/2022/03/14/rsa.html)
 - [POV-ray Dice](https://www.henryschmale.org/2022/02/22/povray-dice.html)
 - [Implementing a Table Create &amp; View Update in Athena using AWS Lambda](https://www.henryschmale.org/2022/02/01/athena-view-update.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Humans and Improvised Weapons: A Response to a Writing Prompt](https://www.henryschmale.org/2021/12/25/fic-qa-team-weapon.html)
 - [Exporting the AWS ReInvent Calendar to iCal](https://www.henryschmale.org/2021/11/23/reinvent-calendar.html)
 - [Programming Practice Sites I Like](https://www.henryschmale.org/2021/11/15/progprac.html)
-- [My Great Granddad&#39;s Chicken Recipe](https://www.henryschmale.org/2021/09/26/chicken.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
