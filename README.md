@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Computing Most Chatty People in IRC](https://www.henryschmale.org/2022/05/03/chatty-irc.html)
 - [2D Metaballs Demo using Marching Squares](https://www.henryschmale.org/2022/04/04/metaballs.html)
 - [Superman - Man of Tomorrow](https://www.henryschmale.org/2022/04/02/man-of-tomorrow.html)
 - [Interactive Encryption and Decryption using RSA](https://www.henryschmale.org/2022/03/14/rsa.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Implementing a Table Create &amp; View Update in Athena using AWS Lambda](https://www.henryschmale.org/2022/02/01/athena-view-update.html)
 - [My notes on what packages I absolutely need to install to maintain this site.](https://www.henryschmale.org/2022/01/27/new-laptop-setup.html)
 - [Humans and Improvised Weapons: A Response to a Writing Prompt](https://www.henryschmale.org/2021/12/25/fic-qa-team-weapon.html)
-- [Exporting the AWS ReInvent Calendar to iCal](https://www.henryschmale.org/2021/11/23/reinvent-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
