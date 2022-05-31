@@ -20,9 +20,9 @@ Read my website at : Https://www.henryschmale.org
 
 # My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by HSchmale for How to make Selenium webdriver&#39;s cursor exit a text area](https://stackoverflow.com/questions/72441228/how-to-make-selenium-webdrivers-cursor-exit-a-text-area/72441276#72441276)
+- [Answer by HSchmale for How to read data from S3 using aws role](https://stackoverflow.com/questions/72441172/how-to-read-data-from-s3-using-aws-role/72441240#72441240)
 - [Selenium Copy &amp; Paste from PDF to System Clipboard](https://stackoverflow.com/questions/71514417/selenium-copy-paste-from-pdf-to-system-clipboard)
 - [Answer by HSchmale for Unexpected end of JSON input : when i want to json&lpar;&rpar; the response](https://stackoverflow.com/questions/69095632/unexpected-end-of-json-input-when-i-want-to-json-the-response/69095719#69095719)
 - [AWS Glue Crawler - DynamoDB Export - Get attribute names in schema instead of struct](https://stackoverflow.com/questions/69081400/aws-glue-crawler-dynamodb-export-get-attribute-names-in-schema-instead-of-st)
-- [Answer by HSchmale for Got column doesn&#39;t exist when query nested jsonb field in postgresql](https://stackoverflow.com/questions/69021083/got-column-doesnt-exist-when-query-nested-jsonb-field-in-postgresql/69021160#69021160)
-- [Answer by HSchmale for Way to prevent stdout.readline&lpar;&rpar; from freezing program](https://stackoverflow.com/questions/68523083/way-to-prevent-stdout-readline-from-freezing-program/68523114#68523114)
 <!-- STACKOVERFLOW:END -->
