@@ -8,7 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Lightyear movie review](https://www.henryschmale.org/2022/06/27/lightyear.html)
+- [The Lightyear Movie and Resilient Organizations](https://www.henryschmale.org/2022/06/27/lightyear.html)
 - [My New Picnic Bench is Better Than Any Other Outdoor Furniture](https://www.henryschmale.org/2022/06/06/picnic-bench.html)
 - [Computing Most Chatty People in IRC](https://www.henryschmale.org/2022/05/03/chatty-irc.html)
 - [2D Metaballs Demo using Marching Squares](https://www.henryschmale.org/2022/04/04/metaballs.html)
