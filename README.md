@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Nutrition Macro Calculator Spreadsheet](https://www.henryschmale.org/2022/08/11/usda-nutrition.html)
 - [Rise of Gru - Waterfall to Steam Door Physics](https://www.henryschmale.org/2022/07/06/minions-waterfall-physics.html)
 - [The Lightyear Movie and Resilient Organizations](https://www.henryschmale.org/2022/06/27/lightyear.html)
 - [My New Picnic Bench is Better Than Any Other Outdoor Furniture](https://www.henryschmale.org/2022/06/06/picnic-bench.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [2D Metaballs Demo using Marching Squares](https://www.henryschmale.org/2022/04/04/metaballs.html)
 - [Superman - Man of Tomorrow](https://www.henryschmale.org/2022/04/02/man-of-tomorrow.html)
 - [Interactive Encryption and Decryption using RSA](https://www.henryschmale.org/2022/03/14/rsa.html)
-- [POV-ray Dice](https://www.henryschmale.org/2022/02/22/povray-dice.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
