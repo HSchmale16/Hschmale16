@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Secret to Better Soups](https://www.henryschmale.org/2022/11/06/soup-secret.html)
 - [Building a Go Application Inside of AWS CloudShell](https://www.henryschmale.org/2022/09/29/go-in-cloudshell.html)
 - [Building a Nutrition Macro Calculator Spreadsheet](https://www.henryschmale.org/2022/08/11/usda-nutrition.html)
 - [Rise of Gru - Waterfall to Steam Door Physics](https://www.henryschmale.org/2022/07/06/minions-waterfall-physics.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [My New Picnic Bench is Better Than Any Other Outdoor Furniture](https://www.henryschmale.org/2022/06/06/picnic-bench.html)
 - [Computing Most Chatty People in IRC](https://www.henryschmale.org/2022/05/03/chatty-irc.html)
 - [2D Metaballs Demo using Marching Squares](https://www.henryschmale.org/2022/04/04/metaballs.html)
-- [Superman - Man of Tomorrow](https://www.henryschmale.org/2022/04/02/man-of-tomorrow.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
