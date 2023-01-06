@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Letter Writing and Politics](https://www.henryschmale.org/2023/01/05/letter-politics.html)
 - [A Blood Orange and Meyer Lemon Sour for Christmas](https://www.henryschmale.org/2022/12/24/xmas-cocktail.html)
 - [Mastodon and the Fediverse](https://www.henryschmale.org/2022/12/22/mastodon.html)
 - [Lovecraftian Gin Story](https://www.henryschmale.org/2022/11/12/lc-gin.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Building a Go Application Inside of AWS CloudShell](https://www.henryschmale.org/2022/09/29/go-in-cloudshell.html)
 - [Building a Nutrition Macro Calculator Spreadsheet](https://www.henryschmale.org/2022/08/11/usda-nutrition.html)
 - [Rise of Gru - Waterfall to Steam Door Physics](https://www.henryschmale.org/2022/07/06/minions-waterfall-physics.html)
-- [The Lightyear Movie and Resilient Organizations](https://www.henryschmale.org/2022/06/27/lightyear.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
