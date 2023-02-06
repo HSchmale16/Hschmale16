@@ -8,14 +8,14 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Book Review - &quot;Randomize&quot; By Andy Weir](https://www.henryschmale.org/2023/01/27/randomize.html)
+- [Tire Pressure &amp; The Polar Vortex](https://www.henryschmale.org/2023/02/05/TirePressure.html)
+- [Book Review - &#39;Randomize&#39; By Andy Weir](https://www.henryschmale.org/2023/01/27/randomize.html)
 - [Letter Writing and Politics](https://www.henryschmale.org/2023/01/05/letter-politics.html)
 - [A Blood Orange and Meyer Lemon Sour for Christmas](https://www.henryschmale.org/2022/12/24/xmas-cocktail.html)
 - [Mastodon and the Fediverse](https://www.henryschmale.org/2022/12/22/mastodon.html)
 - [Lovecraftian Gin Story](https://www.henryschmale.org/2022/11/12/lc-gin.html)
 - [The Secret to Better Soups](https://www.henryschmale.org/2022/11/06/soup-secret.html)
 - [Building a Go Application Inside of AWS CloudShell](https://www.henryschmale.org/2022/09/29/go-in-cloudshell.html)
-- [Building a Nutrition Macro Calculator Spreadsheet](https://www.henryschmale.org/2022/08/11/usda-nutrition.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
