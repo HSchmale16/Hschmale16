@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Europe 2023 - Iceland](https://www.henryschmale.org/2023/07/05/iceland.html)
 - [Europe 2023 - Berlin](https://www.henryschmale.org/2023/06/29/berlin.html)
 - [This is a PSA about RClone! It&#39;s Awesome!](https://www.henryschmale.org/2023/04/10/rclone-gdrive-psa.html)
 - [Atlanta Trip Journal](https://www.henryschmale.org/2023/03/17/atlanta.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Book Review - &#39;Randomize&#39; By Andy Weir](https://www.henryschmale.org/2023/01/27/randomize.html)
 - [Letter Writing and Politics](https://www.henryschmale.org/2023/01/05/letter-politics.html)
 - [A Blood Orange and Meyer Lemon Sour for Christmas](https://www.henryschmale.org/2022/12/24/xmas-cocktail.html)
-- [Mastodon and the Fediverse](https://www.henryschmale.org/2022/12/22/mastodon.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
