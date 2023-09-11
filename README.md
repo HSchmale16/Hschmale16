@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy Access of Cloudformation Lambda Environment Variables.](https://www.henryschmale.org/2023/09/11/env-vars-cfn-stack.html)
 - [Europe 2023 - Vienna](https://www.henryschmale.org/2023/08/03/vienna.html)
 - [Europe 2023 - Iceland](https://www.henryschmale.org/2023/07/05/iceland.html)
 - [Europe 2023 - Berlin](https://www.henryschmale.org/2023/06/29/berlin.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Atlanta Trip Journal](https://www.henryschmale.org/2023/03/17/atlanta.html)
 - [Tire Pressure &amp; The Polar Vortex in Jupyter Python](https://www.henryschmale.org/2023/02/05/TirePressure.html)
 - [Book Review - &#39;Randomize&#39; By Andy Weir](https://www.henryschmale.org/2023/01/27/randomize.html)
-- [Letter Writing and Politics](https://www.henryschmale.org/2023/01/05/letter-politics.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
