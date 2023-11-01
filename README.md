@@ -20,9 +20,9 @@ Read my website at : Https://www.henryschmale.org
 
 # My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Aws eventbridge cron. Only after the nth day of the month run on weekdays](https://stackoverflow.com/questions/77404783/aws-eventbridge-cron-only-after-the-nth-day-of-the-month-run-on-weekdays)
 - [ServiceNow - client script getReference dot walk](https://stackoverflow.com/questions/77143949/servicenow-client-script-getreference-dot-walk)
 - [Answer by HSchmale for Macbook pro M1 command not found after oh my zsh](https://stackoverflow.com/questions/74017859/macbook-pro-m1-command-not-found-after-oh-my-zsh/74017917#74017917)
 - [Answer by HSchmale for how can i use make using powershell on win10](https://stackoverflow.com/questions/74016459/how-can-i-use-make-using-powershell-on-win10/74016524#74016524)
 - [DynamoDB partiql high cost compared to regular query command](https://stackoverflow.com/questions/72524216/dynamodb-partiql-high-cost-compared-to-regular-query-command)
-- [Answer by HSchmale for How to make Selenium webdriver&#39;s cursor exit a text area](https://stackoverflow.com/questions/72441228/how-to-make-selenium-webdrivers-cursor-exit-a-text-area/72441276#72441276)
 <!-- STACKOVERFLOW:END -->
