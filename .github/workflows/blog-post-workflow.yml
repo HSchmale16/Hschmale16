@@ -14,8 +14,4 @@ jobs:
         with:
           feed_list: "https://www.henryschmale.org/feed.xml"
           max_post_count: 8
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/4335488"
+      
