@@ -8,6 +8,7 @@ Read my website at : Https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Magic of Beer Can Chicken](https://www.henryschmale.org/2024/03/19/beercan-chicken.html)
 - [Linting IAM Policies Automatically in Your Pipeline](https://www.henryschmale.org/2024/02/16/iam-linting.html)
 - [Porting a Linux Program to Run in Browser using Emscripten](https://www.henryschmale.org/2023/12/21/emscripten.html)
 - [Easy Access of Cloudformation Lambda Environment Variables.](https://www.henryschmale.org/2023/09/11/env-vars-cfn-stack.html)
@@ -15,7 +16,6 @@ Read my website at : Https://www.henryschmale.org
 - [Europe 2023 - Iceland](https://www.henryschmale.org/2023/07/05/iceland.html)
 - [Europe 2023 - Berlin](https://www.henryschmale.org/2023/06/29/berlin.html)
 - [This is a PSA about RClone! It&#39;s Awesome!](https://www.henryschmale.org/2023/04/10/rclone-gdrive-psa.html)
-- [Atlanta Trip Journal](https://www.henryschmale.org/2023/03/17/atlanta.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
