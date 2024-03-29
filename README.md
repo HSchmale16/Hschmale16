@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Read my website at : Https://www.henryschmale.org
+Read my website at : https://www.henryschmale.org
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hschmale16&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
