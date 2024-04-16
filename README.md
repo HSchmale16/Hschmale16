@@ -8,6 +8,7 @@ Read my website at : https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Updated Ruby on My Arch Box Cause the System One Was Out of Date](https://www.henryschmale.org/2024/04/15/ruby-arch.html)
 - [A Diagram to Explain the Various Magic the Gathering Formats](https://www.henryschmale.org/2024/03/26/mtg-formats.html)
 - [The Magic of Beer Can Chicken](https://www.henryschmale.org/2024/03/19/beercan-chicken.html)
 - [Linting IAM Policies Automatically in Your Pipeline](https://www.henryschmale.org/2024/02/16/iam-linting.html)
@@ -15,7 +16,6 @@ Read my website at : https://www.henryschmale.org
 - [Easy Access of Cloudformation Lambda Environment Variables.](https://www.henryschmale.org/2023/09/11/env-vars-cfn-stack.html)
 - [Europe 2023 - Vienna](https://www.henryschmale.org/2023/08/03/vienna.html)
 - [Europe 2023 - Iceland](https://www.henryschmale.org/2023/07/05/iceland.html)
-- [Europe 2023 - Berlin](https://www.henryschmale.org/2023/06/29/berlin.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
