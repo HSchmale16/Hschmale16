@@ -8,6 +8,7 @@ Read my website at : https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ender’s Game, Revisited Thoughts and Issues](https://www.henryschmale.org/2024/05/08/enders-game.html)
 - [Unveiling the Risks of sts:GetFederationToken, You Probably Don&#39;t Need It](https://www.henryschmale.org/2024/05/02/GetFederationToken.html)
 - [How I Updated Ruby on My Arch Box Cause the System One Was Out of Date](https://www.henryschmale.org/2024/04/15/ruby-arch.html)
 - [A Diagram to Explain the Various Magic the Gathering Formats](https://www.henryschmale.org/2024/03/26/mtg-formats.html)
@@ -15,7 +16,6 @@ Read my website at : https://www.henryschmale.org
 - [Linting IAM Policies Automatically in Your Pipeline](https://www.henryschmale.org/2024/02/16/iam-linting.html)
 - [Porting a Linux Program to Run in Browser using Emscripten](https://www.henryschmale.org/2023/12/21/emscripten.html)
 - [Easy Access of Cloudformation Lambda Environment Variables.](https://www.henryschmale.org/2023/09/11/env-vars-cfn-stack.html)
-- [Europe 2023 - Vienna](https://www.henryschmale.org/2023/08/03/vienna.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
