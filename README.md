@@ -8,6 +8,7 @@ Read my website at : https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kuttna Hora, The Bone Church, and My Corpse](https://www.henryschmale.org/2024/05/22/kuttnahora.html)
 - [Ender’s Game, Revisited Thoughts and Issues](https://www.henryschmale.org/2024/05/08/enders-game.html)
 - [Unveiling the Risks of sts:GetFederationToken, You Probably Don&#39;t Need It](https://www.henryschmale.org/2024/05/02/GetFederationToken.html)
 - [How I Updated Ruby on My Arch Box Cause the System One Was Out of Date](https://www.henryschmale.org/2024/04/15/ruby-arch.html)
@@ -15,7 +16,6 @@ Read my website at : https://www.henryschmale.org
 - [The Magic of Beer Can Chicken](https://www.henryschmale.org/2024/03/19/beercan-chicken.html)
 - [Linting IAM Policies Automatically in Your Pipeline](https://www.henryschmale.org/2024/02/16/iam-linting.html)
 - [Porting a Linux Program to Run in Browser using Emscripten](https://www.henryschmale.org/2023/12/21/emscripten.html)
-- [Easy Access of Cloudformation Lambda Environment Variables.](https://www.henryschmale.org/2023/09/11/env-vars-cfn-stack.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
