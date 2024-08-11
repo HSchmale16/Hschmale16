@@ -8,6 +8,7 @@ Read my website at : https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using SQLite Extensions with Gorm](https://www.henryschmale.org/2024/08/10/gorm-sqlite-ext.html)
 - [Using the SQLite Shell the Right Way](https://www.henryschmale.org/2024/07/04/sqlite-shell.html)
 - [Karlovy Vary Weekend Trip](https://www.henryschmale.org/2024/05/27/karlovy-vary.html)
 - [Kuttna Hora, The Bone Church, and My Corpse](https://www.henryschmale.org/2024/05/22/kuttnahora.html)
@@ -15,7 +16,6 @@ Read my website at : https://www.henryschmale.org
 - [Unveiling the Risks of sts:GetFederationToken, You Probably Don&#39;t Need It](https://www.henryschmale.org/2024/05/02/GetFederationToken.html)
 - [How I Updated Ruby on My Arch Box Cause the System One Was Out of Date](https://www.henryschmale.org/2024/04/15/ruby-arch.html)
 - [A Diagram to Explain the Various Magic the Gathering Formats](https://www.henryschmale.org/2024/03/26/mtg-formats.html)
-- [The Magic of Beer Can Chicken](https://www.henryschmale.org/2024/03/19/beercan-chicken.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
