@@ -8,6 +8,7 @@ Read my website at : https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Momir is a Stupid Magic Format](https://www.henryschmale.org/2025/01/17/momir.html)
 - [Exposing Pandoc to Create PDFs using AWS Lambda](https://www.henryschmale.org/2024/11/26/hello-pdf.html)
 - [Batman Dialer Part 2 - Hardware Testing](https://www.henryschmale.org/2024/09/12/dialer-2.html)
 - [Batman Dialer Project #1](https://www.henryschmale.org/2024/08/21/dialer-project.html)
@@ -15,7 +16,6 @@ Read my website at : https://www.henryschmale.org
 - [Using the SQLite Shell the Right Way](https://www.henryschmale.org/2024/07/04/sqlite-shell.html)
 - [Karlovy Vary Weekend Trip](https://www.henryschmale.org/2024/05/27/karlovy-vary.html)
 - [Kuttna Hora, The Bone Church, and My Corpse](https://www.henryschmale.org/2024/05/22/kuttnahora.html)
-- [Ender’s Game, Revisited Thoughts and Issues](https://www.henryschmale.org/2024/05/08/enders-game.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
