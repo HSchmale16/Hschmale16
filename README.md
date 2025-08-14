@@ -8,6 +8,7 @@ Read my website at : https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Andromeda Strain Book Review](https://www.henryschmale.org/2025/08/13/andromeda-strain.html)
 - [SMRender - Make Maps From Where You Live](https://www.henryschmale.org/2025/05/14/smrender.html)
 - [Momir is a Stupid Magic Format](https://www.henryschmale.org/2025/01/17/momir.html)
 - [Exposing Pandoc to Create PDFs using AWS Lambda](https://www.henryschmale.org/2024/11/26/hello-pdf.html)
@@ -15,7 +16,6 @@ Read my website at : https://www.henryschmale.org
 - [Batman Dialer Project #1](https://www.henryschmale.org/2024/08/21/dialer-project.html)
 - [Using SQLite Extensions with Gorm](https://www.henryschmale.org/2024/08/10/gorm-sqlite-ext.html)
 - [Using the SQLite Shell the Right Way](https://www.henryschmale.org/2024/07/04/sqlite-shell.html)
-- [Karlovy Vary Weekend Trip](https://www.henryschmale.org/2024/05/27/karlovy-vary.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
