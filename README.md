@@ -8,6 +8,7 @@ Read my website at : https://www.henryschmale.org
 
 # My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent Browser, Port Forwarding and ZeroClaw](https://www.henryschmale.org/2026/05/05/agent-browser.html)
 - [Getting Started With ZeroClaw](https://www.henryschmale.org/2026/04/20/claws.html)
 - [BSides Philly 2025 - Write Up](https://www.henryschmale.org/2025/12/07/bsides-philly.html)
 - [Andromeda Strain Book Review](https://www.henryschmale.org/2025/08/13/andromeda-strain.html)
@@ -15,7 +16,6 @@ Read my website at : https://www.henryschmale.org
 - [Momir is a Stupid Magic Format](https://www.henryschmale.org/2025/01/17/momir.html)
 - [Exposing Pandoc to Create PDFs using AWS Lambda](https://www.henryschmale.org/2024/11/26/hello-pdf.html)
 - [Batman Dialer Part 2 - Hardware Testing](https://www.henryschmale.org/2024/09/12/dialer-2.html)
-- [Batman Dialer Project #1](https://www.henryschmale.org/2024/08/21/dialer-project.html)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
